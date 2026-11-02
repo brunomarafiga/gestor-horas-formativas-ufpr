@@ -25,3 +25,11 @@ Ferramenta web gratuita para alunos da UFPR organizarem e contabilizarem seus ce
 ## Privacidade
 
 Nenhum dado é enviado para servidores nossos. Os PDFs são processados diretamente entre o navegador do aluno e a API do Google Gemini usando a chave pessoal do usuário.
+
+## Contexto do projeto
+
+Aplicação web desenvolvida para apoiar estudantes da UFPR na organização de Atividades Formativas. Combina processamento local no navegador, PyScript e Google Gemini, mantendo os arquivos do usuário fora de um backend próprio.
+
+**Temas:** IA aplicada, automação acadêmica, privacidade e experiência do usuário.
+
+[Ver repositório](https://github.com/brunomarafiga/horas_formativas_UFPR)
